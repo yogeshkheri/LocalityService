@@ -1,0 +1,2 @@
+# LocalityService
+We have designed and developed a platform where PG, Shop, Food Mess Owners can create and update profiles showcasing services they offer. Students can view these profiles and services offered and can interact with the Owners. Students interested in availing these services are provided with Owners contact details. The Administrator verifies the credibility of Owners and approves or disapproves their services to be showcased. We used Angular, Spring Boot and Agile Design to develop this project.
